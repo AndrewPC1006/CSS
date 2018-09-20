@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+}
+
+h1{
+    background-color: yellow;
+    height: 120px;
+    display: inline;
+}
+span{
+    background-color: bisque;
+    height: 500px;
+    width: 300px;
+    border: solid black 5px;
+    /*border-top: 4px solid black;
+    border-right: 4px dashed green;
+    border-bottom: 4px dotted yellowgreen;
+    border-left: 4px double purple;*/
+    /*font-size: 3em;*/
+    display: inline-block;
+}
+p{
+    background-color: blanchedalmond;
+    height: 120px;
+}
